@@ -1,0 +1,11 @@
+{
+    "display_name": "Scroll Nav 竖条导航",
+    "version": "1.0.0",
+    "author": "Custom",
+    "description": "竖状浮动按钮：回到最上面 / 上一条消息 / 回到最下面，可拖动记忆位置。",
+    "js": "index.js",
+    "requires": [],
+    "optional": [],
+    "auto_update": false,
+    "homePage": ""
+}
